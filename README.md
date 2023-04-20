@@ -1,4 +1,4 @@
-This notebook has been refrence from https://github.com/Lindstaedt/Stock-recommendation-with-ML
+This notebook has been refrenced from https://github.com/Lindstaedt/Stock-recommendation-with-ML
 to learn about TPOT classifier for recession/stock market prediction kind of use cases as part of Emerging Tech course AIDI Sep2022-April2023 course, Georgian College.
 
 #Following is from original source https://github.com/Lindstaedt/Stock-recommendation-with-ML
